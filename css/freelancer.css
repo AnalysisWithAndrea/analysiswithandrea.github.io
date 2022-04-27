@@ -1437,12 +1437,12 @@ pre code {
 }
 
 .table-hover .table-primary:hover {
-  background-color: #abe6da;
+  background-color: #6086a2;
 }
 
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #abe6da;
+  background-color: #6086a2;
 }
 
 .table-secondary,
@@ -2262,8 +2262,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #159a80;
-  border-color: #148f77;
+  background-color: #6086a2;
+  border-color: #6086a2;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -2279,7 +2279,7 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #148f77;
+  background-color: #6086a2;
   border-color: #12846e;
 }
 
@@ -4718,7 +4718,7 @@ a.badge:hover, a.badge:focus {
 
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
-  background-color: #148f77;
+  background-color: #6086a2;
 }
 
 a.badge-primary:focus, a.badge-primary.focus {
@@ -6211,7 +6211,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #6086a2 !important;
 }
 
 .bg-secondary {
